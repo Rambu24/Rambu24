@@ -11,7 +11,7 @@ I have been developing applications and working in collaborative projects that a
 *   ✉️  You can contact me at [alex.chinchillab24@gmail.com](mailto:alex.chinchillab24@gmail.com)
 *   🧠  I'm learning .Net Core with React Js.
 *   🤝  I'm open to collaborating on Projects.
-*   ⚡  I love burgers and fries.
+*   ⚡  I love burgers and fries.### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
